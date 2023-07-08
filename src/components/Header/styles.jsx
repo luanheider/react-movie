@@ -5,7 +5,7 @@ export const StyledHeader = styled.header`
     justify-content: center;
     gap: 2rem;
     h1 {
-        color: #8844ee;
+        color: ${({ theme }) => theme.colors.primaryColor};
         font-size: 3.2rem;
     }
     img {

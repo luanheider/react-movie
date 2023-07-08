@@ -25,7 +25,7 @@ export const TitleDetails = styled.span`
     font-weight: bold;
     letter-spacing: 0.2rem;
     font-size: 1.2rem;
-    color: #88ee44;
+    color: ${({ theme }) => theme.colors.secondaryColor};
     margin-top: 1.2rem;
 `
 export const Sinopse = styled.span`
@@ -39,5 +39,5 @@ export const Sinopse = styled.span`
     }
 `
 export const ReleaseDate = styled.span`
-    color: #88ee44;
+    color: ${({ theme }) => theme.colors.secondaryColor};
 `

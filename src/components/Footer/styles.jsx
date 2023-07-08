@@ -7,7 +7,7 @@ export const StyledFooter = styled.footer`
     margin-top: 3rem;
     text-align: center;
     strong {
-        color: #8844ee;
+        color: ${({ theme }) => theme.colors.primaryColor};
         margin-left: 0.5rem;
     }
 `
