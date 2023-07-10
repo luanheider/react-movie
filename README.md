@@ -1,8 +1,8 @@
 # React Movie
 ## Página principal
-![Preview-Screens](/react_movie/src/assets/img/desktop.png)
+![Preview-Screens](./src/assets/img/desktop.png)
 ## Página de detalhes
-![Preview-Screens](/react_movie/src/assets/img/desktop_2.png)
+![Preview-Screens](./src/assets/img/desktop_2.png)
 
 ## Por quê?
 Este projeto faz parte do meu portfólio pessoal, fiz apenas com a intenção de melhorar minhas habilidades em React.js e Styled-components, então, ficarei feliz se você puder me fornecer algum feedback sobre o projeto, código, estrutura ou qualquer coisa que você pode relatar que poderia me tornar um desenvolvedor melhor!
