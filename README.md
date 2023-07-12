@@ -1,6 +1,6 @@
 # React Movie
 ## Página principal
-![Preview-Screens](./src/assets/img/desktop.png)
+![Preview-Screens](./src/assets/img/m.png)
 ## Página de detalhes
 ![Preview-Screens](./src/assets/img/desktop_2.png)
 
